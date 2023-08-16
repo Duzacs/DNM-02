@@ -1,0 +1,26 @@
+[{
+        "name": "Taller de Convergencia Medial",
+        "code": "COM029",
+        "about": "La crisis que hoy vive la industria de los medios masivos de comunicación ha sido llamada el tsunami digital por la relevancia que tiene lo digital para los medios, tanto como causa del problema, como posible solución. EL taller busca desarrollar prototipos que permitan entregar, a través de soportes digitales, contenidos mediales de calidad. Se espera, de esta manera, que los lectores tengan una experiencia similar o superior a las que han tenido hasta ahora al informarse en los medios tradicionales"
+    },
+    {
+        "name": "Lenguaje Visual",
+        "code": "COM115",
+        "about": "El curso busca dar a entender el proceso biológico de la lectura de la imagen en la comunicación. Asimismo, valorar la importancia de la estructura perceptible humana en los procesos de comunicación del área de comunicación visual, incorporando criterios de organización como lenguaje significativo"
+    },
+    {
+        "name": "Narración Gráfica de No Ficción",
+        "code": "COM208",
+        "about": "En esta asignatura, los alumnos reconocen que la prensa escrita está dividida de textos escritos y visuales y que el dominio de ambos lenguajes es necesario para lograr la llegada eficaz al lector moderno. Para ello, se trabaja con instrumentos teóricos y prácticos que conducen a una correcta y poderosa expresión de temas periodísticos"
+    },
+    {
+        "name": "Design Bootcamp: Herramientas y Métodos Prácticos para Innovar",
+        "code": "DNO048",
+        "about": "En este curso las y los estudiantes de diversas disciplinas trabajarán en la creación de proyectos de innovación aplicando metodologías de diseño para facilitar su desarrollo. A través de técnicas, herramientas e instrumentos los estudiantes podrán potenciar la exploración creativa, el trabajo en equipos multidisciplinarios, la creación de conceptos y la propuesta de soluciones innovadoras y factibles. Para ello, se combinan clases expositivas con metodologías activas de trabajo en equipo. Se evaluará tanto el avance a lo largo del proceso como el resultado final del trabajo colaborativo a través de presentaciones en diversos formatos"
+    },
+    {
+        "name": "Taller de Introducción al Proyecto de Diseño",
+        "code": "DNO1011",
+        "about": "EEn este curso los estudiantes se iniciarán en la disciplina proyectual del diseño de manera integral, adquiriendo herramientas que le permitan comprender los contextos de diseño mediante la observación, definición y relación de variables. Desarrollando la sensibilidad para observar fenómenos y entornos, y la composición de formas abstractas, con un fuerte cuidado por el oficio y la proporción. A partir de la observación de los contextos, los estudiantes podrán conocer y comprender la cultura del diseño en su dimensión social, ambiental y cultural, para iniciar procesos explorativos abstractos, estableciendo un diálogo formal transversal que vincule la sustentabilidad medioambiental y social, con el bienestar de las personas y los ecosistemas"
+    }
+]
